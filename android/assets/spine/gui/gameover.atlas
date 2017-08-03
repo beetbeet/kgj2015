@@ -1,0 +1,69 @@
+
+gameover.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 479, 240
+  size: 125, 187
+  orig: 125, 187
+  offset: 0, 0
+  index: -1
+Group 1 copy
+  rotate: false
+  xy: 627, 600
+  size: 156, 190
+  orig: 156, 190
+  offset: 0, 0
+  index: -1
+Group 1 copy 2
+  rotate: false
+  xy: 627, 792
+  size: 182, 199
+  orig: 182, 199
+  offset: 0, 0
+  index: -1
+OKOl
+  rotate: false
+  xy: 2, 2
+  size: 194, 121
+  orig: 194, 121
+  offset: 0, 0
+  index: -1
+OKOp
+  rotate: false
+  xy: 811, 888
+  size: 175, 103
+  orig: 175, 103
+  offset: 0, 0
+  index: -1
+otwor gebowy
+  rotate: false
+  xy: 2, 125
+  size: 475, 302
+  orig: 475, 302
+  offset: 0, 0
+  index: -1
+ryj
+  rotate: false
+  xy: 2, 429
+  size: 623, 562
+  orig: 623, 562
+  offset: 0, 0
+  index: -1
+zrenicaL
+  rotate: false
+  xy: 198, 9
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+zrenicaP
+  rotate: false
+  xy: 627, 473
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
